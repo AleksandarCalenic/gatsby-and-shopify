@@ -1,0 +1,20 @@
+.form {
+    text-align: center;
+    padding-top: 30px;
+    max-width: 400px;
+    margin: 0 auto;
+}
+.form__label {
+    display: block;
+    margin-bottom: 10px;
+}
+.form__input {
+    margin-bottom: 30px;
+    border: none;
+    border-radius: 20px;
+    width: 100%;
+    padding: 10px 20px;
+}
+.form__btn {
+    margin: 0 auto 40px;
+}

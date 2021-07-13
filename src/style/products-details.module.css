@@ -1,0 +1,33 @@
+.productDetails {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 35px;
+}
+.productDetails img {
+    width: 100%;
+    display: block;
+}
+.productDetails__img {
+    width: 50%;
+}
+.productDetails__desc {
+    width: 40%;
+}
+.productDetails__title {
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.productDetails__text {
+    text-align: justify;
+    margin-bottom: 15px;
+    line-height: 30px;
+}
+.productDetails__price {
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 40px;
+}
+.productDetails__btn {
+    margin-right: auto;
+}
