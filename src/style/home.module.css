@@ -1,0 +1,11 @@
+.home > h1 {
+    padding: 200px 0;
+    text-align: center;
+    font-size: 40px;
+}
+@media screen and (max-width: 1200px) {
+    .home > h1 {
+        font-size: 35px;
+        padding: 200px 30px;
+    }
+}

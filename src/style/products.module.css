@@ -1,0 +1,28 @@
+.products {
+    text-align: center;
+}
+.products__title {
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+.products__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    padding: 10px 30px;
+}
+.products__btn {
+    display: block;
+    margin: 0 auto 20px;
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    border-radius: 20px;
+    text-transform: uppercase;
+}
+@media screen and (min-width: 678px) and (max-width: 1200px) {
+    .products__list {
+        justify-content: space-between;
+    }
+
+}
