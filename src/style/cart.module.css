@@ -1,0 +1,43 @@
+.cart {
+    padding: 35px;
+    text-align: center;
+    display: block;
+}
+.cart__title {
+    margin-bottom: 25px;
+}
+.cart__text {
+    padding: 0 25%;
+    margin-bottom: 40px;
+}
+.cart__back {
+    display: inline-block;
+    cursor: pointer;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-transform: uppercase;
+    background-color: white;
+}
+.table, thead, tbody, tr {
+    display: block;
+}
+.table {
+    margin-bottom: 50px;
+}
+tr {
+    margin-bottom: 20px;
+}
+th, td {
+    display: inline-block;
+    width: 20%;
+}
+.table__header th {
+    padding: 30px 20px;
+}
+.table__allPrice {
+    text-align: left;
+}
+.table__checkout {
+    margin: 0 auto;
+}

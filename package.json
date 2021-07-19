@@ -15,18 +15,33 @@
     "gatsby": "gatsby"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-brands-svg-icons": "^5.15.3",
+    "@fortawesome/free-regular-svg-icons": "^5.15.3",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "@react-icons/all-files": "^4.1.0",
+    "@react-md/icon": "^2.8.4",
     "dotenv": "^10.0.0",
     "gatsby": "^3.9.1",
     "gatsby-image": "^3.9.0",
+    "gatsby-plugin-fontawesome-css": "^1.1.0",
     "gatsby-plugin-image": "^1.9.0",
     "gatsby-plugin-sass": "^4.9.0",
     "gatsby-plugin-sharp": "^3.9.0",
     "gatsby-source-filesystem": "^3.9.0",
     "gatsby-source-shopify": "^5.1.0",
     "gatsby-transformer-sharp": "^3.9.0",
+    "isomorphic-fetch": "^3.0.0",
+    "lodash.debounce": "^4.0.8",
+    "lodash.isequal": "^4.5.0",
+    "material-design-icons": "^3.0.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "sass": "^1.35.2"
+    "react-router-dom": "^5.2.0",
+    "sass": "^1.35.2",
+    "shopify-buy": "^2.11.0"
   },
   "devDependencies": {
     "prettier": "2.3.2"

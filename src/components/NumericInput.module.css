@@ -1,0 +1,17 @@
+.form {
+    display: flex;
+    margin-bottom: 20px;
+}
+.form__btn {
+    border-radius: 50%;
+    margin: 0 3px;
+    padding: 10px;
+    width: 35px;
+    text-align: center;
+}
+.form__input {
+    max-width: 40px;
+    border: none;
+    text-align: center;
+    margin-right: 10px;
+}

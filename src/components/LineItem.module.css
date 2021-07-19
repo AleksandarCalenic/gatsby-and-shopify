@@ -1,0 +1,15 @@
+.product {
+    text-align: center;
+}
+.product__name {
+    font-size: 20px;
+    font-weight: normal;
+    margin-bottom: 10px;
+}
+.product__remove {
+    margin: 0 auto;
+}
+.product__num div {
+    display: flex;
+    justify-content: center;
+}

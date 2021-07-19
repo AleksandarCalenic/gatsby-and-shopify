@@ -22,12 +22,14 @@
     text-align: justify;
     margin-bottom: 15px;
     line-height: 30px;
+    padding-right: 40px;
 }
 .productDetails__price {
     font-weight: bold;
     font-style: italic;
     margin-bottom: 40px;
 }
-.productDetails__btn {
-    margin-right: auto;
+.productDetails__num {
+    display: flex;
+    margin-bottom: 20px;
 }
